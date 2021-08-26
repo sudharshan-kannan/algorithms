@@ -6,7 +6,17 @@
 
 #IncludeRegexTransform: 
 
-/home/ajayk/CLionProjects/algorithms-and-data-structures/main.cpp
+/home/ajayk/CLionProjects/algorithms-and-data-structures/include/generic_algorithms.h
+algorithm
+-
+
+/home/ajayk/CLionProjects/algorithms-and-data-structures/src/egg_dropping.cpp
+vector
+-
 iostream
 -
+cmath
+-
+../include/generic_algorithms.h
+/home/ajayk/CLionProjects/algorithms-and-data-structures/include/generic_algorithms.h
 

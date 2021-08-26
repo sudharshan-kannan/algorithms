@@ -103,6 +103,9 @@
 		<Unit filename="/home/ajayk/CLionProjects/algorithms-and-data-structures/main.cpp">
 			<Option target="algorithms_and_data_structures"/>
 		</Unit>
+		<Unit filename="/home/ajayk/CLionProjects/algorithms-and-data-structures/src/egg_dropping.cpp">
+			<Option target="algorithms_and_data_structures"/>
+		</Unit>
 		<Unit filename="/home/ajayk/CLionProjects/algorithms-and-data-structures/src/evaluate_expressions.cpp">
 			<Option target="algorithms_and_data_structures"/>
 		</Unit>

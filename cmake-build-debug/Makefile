@@ -196,6 +196,33 @@ main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithms_and_data_structures.dir/build.make CMakeFiles/algorithms_and_data_structures.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+src/egg_dropping.o: src/egg_dropping.cpp.o
+
+.PHONY : src/egg_dropping.o
+
+# target to build an object file
+src/egg_dropping.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithms_and_data_structures.dir/build.make CMakeFiles/algorithms_and_data_structures.dir/src/egg_dropping.cpp.o
+.PHONY : src/egg_dropping.cpp.o
+
+src/egg_dropping.i: src/egg_dropping.cpp.i
+
+.PHONY : src/egg_dropping.i
+
+# target to preprocess a source file
+src/egg_dropping.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithms_and_data_structures.dir/build.make CMakeFiles/algorithms_and_data_structures.dir/src/egg_dropping.cpp.i
+.PHONY : src/egg_dropping.cpp.i
+
+src/egg_dropping.s: src/egg_dropping.cpp.s
+
+.PHONY : src/egg_dropping.s
+
+# target to generate assembly for a file
+src/egg_dropping.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithms_and_data_structures.dir/build.make CMakeFiles/algorithms_and_data_structures.dir/src/egg_dropping.cpp.s
+.PHONY : src/egg_dropping.cpp.s
+
 src/evaluate_expressions.o: src/evaluate_expressions.cpp.o
 
 .PHONY : src/evaluate_expressions.o
@@ -427,6 +454,9 @@ help:
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
+	@echo "... src/egg_dropping.o"
+	@echo "... src/egg_dropping.i"
+	@echo "... src/egg_dropping.s"
 	@echo "... src/evaluate_expressions.o"
 	@echo "... src/evaluate_expressions.i"
 	@echo "... src/evaluate_expressions.s"

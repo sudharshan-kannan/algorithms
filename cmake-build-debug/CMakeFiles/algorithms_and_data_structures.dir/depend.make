@@ -6,6 +6,9 @@ CMakeFiles/algorithms_and_data_structures.dir/lib/LinkedList.cpp.o: ../lib/Linke
 
 CMakeFiles/algorithms_and_data_structures.dir/main.cpp.o: ../main.cpp
 
+CMakeFiles/algorithms_and_data_structures.dir/src/egg_dropping.cpp.o: ../include/generic_algorithms.h
+CMakeFiles/algorithms_and_data_structures.dir/src/egg_dropping.cpp.o: ../src/egg_dropping.cpp
+
 CMakeFiles/algorithms_and_data_structures.dir/src/evaluate_expressions.cpp.o: ../lib/LinkedList.cpp
 CMakeFiles/algorithms_and_data_structures.dir/src/evaluate_expressions.cpp.o: ../lib/LinkedList.h
 CMakeFiles/algorithms_and_data_structures.dir/src/evaluate_expressions.cpp.o: ../lib/Stack.h

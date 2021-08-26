@@ -1,6 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/algorithms_and_data_structures.dir/lib/LinkedList.cpp.o"
   "CMakeFiles/algorithms_and_data_structures.dir/main.cpp.o"
+  "CMakeFiles/algorithms_and_data_structures.dir/src/egg_dropping.cpp.o"
   "CMakeFiles/algorithms_and_data_structures.dir/src/evaluate_expressions.cpp.o"
   "CMakeFiles/algorithms_and_data_structures.dir/src/generic_algorithms.cpp.o"
   "CMakeFiles/algorithms_and_data_structures.dir/src/josephus.cpp.o"
