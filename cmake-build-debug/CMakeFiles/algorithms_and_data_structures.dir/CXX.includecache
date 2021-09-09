@@ -6,17 +6,41 @@
 
 #IncludeRegexTransform: 
 
+/home/ajayk/CLionProjects/algorithms-and-data-structures/include/driver.h
+iostream
+-
+fstream
+-
+string
+-
+algorithm
+-
+iterator
+-
+vector
+-
+generic_algorithms.h
+/home/ajayk/CLionProjects/algorithms-and-data-structures/include/generic_algorithms.h
+../lib/LinkedList.h
+/home/ajayk/CLionProjects/algorithms-and-data-structures/lib/LinkedList.h
+../lib/Stack.h
+/home/ajayk/CLionProjects/algorithms-and-data-structures/lib/Stack.h
+
 /home/ajayk/CLionProjects/algorithms-and-data-structures/include/generic_algorithms.h
 algorithm
 -
 
-/home/ajayk/CLionProjects/algorithms-and-data-structures/src/egg_dropping.cpp
-vector
+/home/ajayk/CLionProjects/algorithms-and-data-structures/lib/LinkedList.h
+memory
 -
+
+/home/ajayk/CLionProjects/algorithms-and-data-structures/lib/Stack.h
+LinkedList.h
+/home/ajayk/CLionProjects/algorithms-and-data-structures/lib/LinkedList.h
+
+/home/ajayk/CLionProjects/algorithms-and-data-structures/main.cpp
+include/driver.h
+/home/ajayk/CLionProjects/algorithms-and-data-structures/include/driver.h
 iostream
 -
-cmath
--
-../include/generic_algorithms.h
-/home/ajayk/CLionProjects/algorithms-and-data-structures/include/generic_algorithms.h
 

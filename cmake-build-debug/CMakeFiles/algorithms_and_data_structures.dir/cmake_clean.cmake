@@ -9,6 +9,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/algorithms_and_data_structures.dir/src/tQueue.cpp.o"
   "CMakeFiles/algorithms_and_data_structures.dir/src/tRingBuffer.cpp.o"
   "CMakeFiles/algorithms_and_data_structures.dir/src/tStack.cpp.o"
+  "CMakeFiles/algorithms_and_data_structures.dir/src/tUnionFind.cpp.o"
   "CMakeFiles/algorithms_and_data_structures.dir/src/tWhitelist.cpp.o"
   "algorithms_and_data_structures"
   "algorithms_and_data_structures.pdb"

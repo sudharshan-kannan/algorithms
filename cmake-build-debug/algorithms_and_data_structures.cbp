@@ -82,6 +82,18 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/home/ajayk/CLionProjects/algorithms-and-data-structures/include/QuickFind.h">
+			<Option target="algorithms_and_data_structures"/>
+		</Unit>
+		<Unit filename="/home/ajayk/CLionProjects/algorithms-and-data-structures/include/QuickUnion.h">
+			<Option target="algorithms_and_data_structures"/>
+		</Unit>
+		<Unit filename="/home/ajayk/CLionProjects/algorithms-and-data-structures/include/UnionFind.h">
+			<Option target="algorithms_and_data_structures"/>
+		</Unit>
+		<Unit filename="/home/ajayk/CLionProjects/algorithms-and-data-structures/include/WeightedQuickUnion.h">
+			<Option target="algorithms_and_data_structures"/>
+		</Unit>
 		<Unit filename="/home/ajayk/CLionProjects/algorithms-and-data-structures/include/driver.h">
 			<Option target="algorithms_and_data_structures"/>
 		</Unit>
@@ -125,6 +137,9 @@
 			<Option target="algorithms_and_data_structures"/>
 		</Unit>
 		<Unit filename="/home/ajayk/CLionProjects/algorithms-and-data-structures/src/tStack.cpp">
+			<Option target="algorithms_and_data_structures"/>
+		</Unit>
+		<Unit filename="/home/ajayk/CLionProjects/algorithms-and-data-structures/src/tUnionFind.cpp">
 			<Option target="algorithms_and_data_structures"/>
 		</Unit>
 		<Unit filename="/home/ajayk/CLionProjects/algorithms-and-data-structures/src/tWhitelist.cpp">
